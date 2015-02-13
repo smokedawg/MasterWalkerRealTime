@@ -1,0 +1,30 @@
+{
+  "name": "MasterWalkerRealTime",
+  "version": "1.0.0",
+  "description": "Master Walkers Realtime Application Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smokedawg/MasterWalkerRealTime.git"
+  },
+  "author": "Richard Venus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smokedawg/MasterWalkerRealTime/issues"
+  },
+  "homepage": "https://github.com/smokedawg/MasterWalkerRealTime",
+  "dependencies": {
+    "body-parser": "latest",
+    "cookie-parser": "latest",
+    "express": "latest",
+    "jade": "latest",
+    "morgan": "latest",
+    "mysql": "latest",
+    "serve-favicon": "latest",
+    "socket.io": "latest",
+    "static-favicon": "latest"
+  }
+}
