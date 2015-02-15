@@ -17,14 +17,19 @@
   },
   "homepage": "https://github.com/smokedawg/MasterWalkerRealTime",
   "dependencies": {
-    "body-parser": "latest",
-    "cookie-parser": "latest",
-    "express": "latest",
-    "jade": "latest",
-    "morgan": "latest",
-    "mysql": "latest",
-    "serve-favicon": "latest",
-    "socket.io": "latest",
-    "static-favicon": "latest"
+	"express": "latest",
+	"express-session": "latest",
+	"socket.io": "latest",
+	"xmlhttprequest": "latest",
+	"body-parser": "latest",
+	"cookie-parser": "latest",
+	"ejs": "latest",
+	"mysql": "latest",
+	"serve-favicon": "latest",
+	"static-favicon": "latest",
+	"request": "latest",
+	"fs": "latest",
+	"debug": "latest",
+	"morgan": "latest"
   }
 }
